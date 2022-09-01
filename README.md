@@ -2,13 +2,17 @@
   Welcome to Pujarini's GitHub profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h3>
+
 <p align="center">
   <a href="https://github.com/Pujarini/Pujarini"><img src="https://readme-typing-svg.herokuapp.com?color=%0E85C9&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+profile;I+am+Pujarini;Web+Developer;Twitter+Space+Host;Technical+Blogger%3C3"></a>
 </p>
 
 ---
 
+
+
 <div align="center">
+
 
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
@@ -16,13 +20,18 @@
 
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pujarini&theme=algolia" alt="Pujarini"  /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pujarini&theme=shades-of-purple)](https://git.io/streak-stats)
+
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">GitHub Stats  </h3>
 
 [![Pujarini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pujarini&show_icons=true&theme=dracula)](https://github.com/pujarini/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pujarini&hide=php&theme=dracula&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="center">Connect with me:</h3>
+---
+
+<h3 align="center">Connect with me 🤝 </h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pujarini-jena/)
@@ -32,15 +41,12 @@
   
 </div>
 
-![](https://komarev.com/ghpvc/?username=Pujarini&label=PROFILE+VIEWS)
+
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pujarini&repo=github-readme-stats)](https://github.com/Pujarini/github-readme-stats) -->
 </div>
 
-- 🔭 I’m currently working on Javascript & React
-- 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on Javascript, React
-- 💬 Ask me about : React | Javascript
+
 
 
 
