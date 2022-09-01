@@ -16,6 +16,12 @@
 <div align="center">
 
   ![github-user-contribution](https://user-images.githubusercontent.com/34391629/188001276-e28ab9d6-0401-4433-a74b-42e33580edbc.svg#gh-dark-mode-only)
+  
+##  Currently working
+  
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pujarini&repo=prepShop&show_owner=true)](https://github.com/Pujarini/prepShop)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pujarini&repo=JS-prep-101&show_owner=true)](https://github.com/Pujarini/JS-prep-101)
 
 
 # Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
