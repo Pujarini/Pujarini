@@ -34,9 +34,9 @@
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">GitHub Stats  </h3>
 
-[![Pujarini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pujarini&show_icons=true&theme=dracula)](https://github.com/pujarini/github-readme-stats)
+[![Pujarini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pujarini&show_icons=true&theme=tokyonight)](https://github.com/pujarini/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pujarini&hide=php&theme=dracula&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pujarini&hide=php&theme=tokyonight&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
