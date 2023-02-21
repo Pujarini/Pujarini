@@ -16,9 +16,9 @@
 ---
 
 <div align="center">
-<p>I am a frontend developer working towards being a full-stack developer</p>
+<p>I am a full-stack developer</p>
 <p>Currently working at a unicorn startup as a Frontend developer</p>
-<p>Learning Typescript and Next.js by end of 2022</p>
+<p>I am exploring Next and backend development! </p>
 
 </div>
 
