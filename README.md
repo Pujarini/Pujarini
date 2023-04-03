@@ -31,7 +31,6 @@
   
 ##  Currently working
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pujarini&repo=chatGPT-messenger&show_owner=true&theme=github_dark)](https://github.com/Pujarini/chatGPT-messenger)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pujarini&repo=askit&show_owner=true&theme=github_dark)](https://github.com/Pujarini/askit)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pujarini&repo=interviewShareApp&show_owner=true&theme=github_dark)](https://github.com/Pujarini/interviewShareApp)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pujarini&repo=JS-prep-101&show_owner=true&theme=github_dark)](https://github.com/Pujarini/JS-prep-101)
  
