@@ -16,9 +16,7 @@
 ---
 
 <div align="center">
-<p>I am a full-stack developer</p>
-<p>Currently working at a unicorn startup as a Frontend developer</p>
-<p>I am exploring Next and backend development! </p>
+<p>Currently working as a Frontend developer at a startup that helps content creators monetise their skills at a large scale</p>
 
 </div>
 
